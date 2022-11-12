@@ -7,4 +7,4 @@ A java program for a small bike rental business, functionality includes managing
 
 ### Licence
 
-The source code is licensed under the [GNU v3 Public License](https://github.com/ulan17/TimeTable/blob/master/LICENSE). 
+The source code is licensed under the [GNU v3 Public License](https://github.com/BlackPixel-AU/BikeOnRent/blob/main/LICENSE). 
