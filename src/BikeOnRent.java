@@ -238,7 +238,7 @@ public class BikeOnRent extends JFrame implements ActionListener {
 
         lblOTop = new JLabel("BikeOnRent");
         lblOMiddle = new JLabel("Version "+version);
-        lblOBottom = new JLabel("Taner Kurtulus - s3822299");
+        lblOBottom = new JLabel("Taner Kurtulus - BlackPixel-AU");
 
         btnORead = new JButton("Read from all files");
         btnOWrite = new JButton("Save to all files");
